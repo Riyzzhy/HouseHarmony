@@ -45,7 +45,4 @@ This project replicates an **Airbnb-style** rental model where:
 | Authentication | Firebase Auth / JWT |
 | Hosting      | Render / Vercel / Netlify / Railway |
 
----
-
-## 📂 Folder Structure
 
